@@ -48,6 +48,7 @@ with distance.
 Then between those nodes they would be connected to various cities
 So each city if connected to another city that would be considered an outgoing flight.
 
+![Alt text](http.jpg?raw=true "Optional Title")
 
 
 Alternative Method:
@@ -69,6 +70,5 @@ Chained-Hash-Search
 Chained-Hash-Delete
 
 Open Addressing:
-S
 I think I will be implementing an open addressing method, but not entirely set on that
 since I want have each table  contain an dynamic set or nil
