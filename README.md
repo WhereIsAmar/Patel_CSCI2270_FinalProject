@@ -5,9 +5,11 @@ Created by Amar Patel, on July 21 2017
 Phase 1 Final Project:
 
 
-PROJECT NAME: Random Flight Generator
+# PROJECT NAME: 
+## Random Flight Generator
 
-PURPOSE: So recently, I attempted to simply call Denver International Airport
+# PURPOSE: 
+So recently, I attempted to simply call Denver International Airport
 with the intention of booking a flight that night. I was hoping I could just go
 somewhere that night randomly for the cheapest price. Multiple airlines failed
 to provide me with any information on how to do this. So, I tried Google Flights,
@@ -22,7 +24,7 @@ And with a "click" they would be able to book a flight and be on their way.
 Currently, in early stages of development, however, having hotel amenities available
 in that city that fit their budget would be a cool addition.
 
-Structure:
+# Structure:
 
 I aim to utilize a few of the data structures we were exposed to in my project.
 The data types would be a linked lists, a unweighted graph, and potentially trees in the path
@@ -48,14 +50,14 @@ So each city if connected to another city that would be considered an outgoing f
 ![Alt text]( "Optional Title")
 
 
-Alternative Method:
+# Alternative Method:
 
 Using a hash table that has a size of 15 for instance. Each airport is the key and
 within it I can store the values of the flight details and pricing if I want.
 
 Traverse through each of the values until I find a match.
 
-Chaining:
+# Chaining:
 
 If I run into an issue where elements hash so a collision
 
@@ -66,6 +68,6 @@ Chained-Hash-Insert
 Chained-Hash-Search
 Chained-Hash-Delete
 
-Open Addressing:
+# Open Addressing:
 I think I will be implementing an open addressing method, but not entirely set on that
 since I want have each table  contain an dynamic set or nil
