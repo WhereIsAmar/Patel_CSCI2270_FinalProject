@@ -8,7 +8,7 @@ Phase 1 Final Project:
 # PROJECT NAME: 
 ## Random Flight Generator
 
-# PURPOSE: 
+# Purpose: 
 So recently, I attempted to simply call Denver International Airport
 with the intention of booking a flight that night. I was hoping I could just go
 somewhere that night randomly for the cheapest price. Multiple airlines failed
