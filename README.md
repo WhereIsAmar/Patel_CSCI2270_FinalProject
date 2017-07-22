@@ -47,9 +47,7 @@ with distance.
 Then between those nodes they would be connected to various cities
 So each city if connected to another city that would be considered an outgoing flight.
 
-https://github.com/WhereIsAmar/Patel_CSCI2270_FinalProject/blob/master/Proposal_Picture.png
-
-
+![Alt text]( https://github.com/WhereIsAmar/Patel_CSCI2270_FinalProject/blob/master/Proposal_Picture.png "Proposal Idea")
 
 # Alternative Method:
 
