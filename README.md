@@ -64,9 +64,9 @@ If I run into an issue where elements hash so a collision
 I can fix it using chaining and implement a linked list to the same slot.
 
 // Some dictionary operations
-Chained-Hash-Insert
-Chained-Hash-Search
-Chained-Hash-Delete
+// Chained-Hash-Insert
+// Chained-Hash-Search
+// Chained-Hash-Delete
 
 # Open Addressing:
 I think I will be implementing an open addressing method, but not entirely set on that
