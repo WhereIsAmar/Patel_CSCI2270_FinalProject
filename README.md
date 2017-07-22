@@ -1,12 +1,9 @@
 # Patel_CSCI2270_FinalProject
-A place for the final project. Created by Amar Patel, on July 21 2017
+Created by Amar Patel, on July 21 2017
 
-
-Proposal:
-
-
+### Proposal:
 Phase 1 Final Project:
-Created by Amar Patel
+
 
 PROJECT NAME: Random Flight Generator
 
@@ -48,7 +45,7 @@ with distance.
 Then between those nodes they would be connected to various cities
 So each city if connected to another city that would be considered an outgoing flight.
 
-![Alt text](http.jpg?raw=true "Optional Title")
+![Alt text]( "Optional Title")
 
 
 Alternative Method:
