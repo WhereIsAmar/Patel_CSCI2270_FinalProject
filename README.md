@@ -42,6 +42,9 @@ I would request this program be run within XCode I ran into a few issues using C
 
 MAKE SURE TO ALSO GENERATE AIRPORTS FIRST(option 3). Before trying to run any other menu options or the program will give you an error.
 
+# Dependencies
+Its uses pretty standard libraries. Should not run into an issue with this if all the files are downloaded properly.
+
 # System Requirements:
 I have only tested this on Macintosh, however, I don't expect any issues to be run into on Linux. Windows on the other hand thats an unknown realm.
 
