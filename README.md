@@ -36,6 +36,10 @@ All of which allow the graph to be modified and updated with the latest airport 
 # How to Run:
 I would request this program be run within XCode I ran into a few issues using Code::Blocks. Also within XCode its important that one goes to XCode < Product < Scheme < Edit Scheme < Run < Options. Then select Use custom working directory and choose the directory that has your text file. 
 
+![alt text](https://github.com/WhereIsAmar/Patel_CSCI2270_FinalProject/blob/master/XCode%20Scheme.png)
+
+
+
 MAKE SURE TO ALSO GENERATE AIRPORTS FIRST(option 3). Before trying to run any other menu options or the program will give you an error.
 
 # System Requirements:
