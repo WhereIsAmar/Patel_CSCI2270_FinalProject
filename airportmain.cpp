@@ -47,7 +47,7 @@ int main()
         
        
         file.clear();
-        //file.seekg(0, ios::beg);
+        file.seekg(0, ios::beg);
         
         
         getline(file, line);
